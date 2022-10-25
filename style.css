@@ -1,0 +1,28 @@
+body{
+    margin:0;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat:no-repeat;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+}
+h1{
+    font-size:50px;
+}
+.orange-highlight{
+    color:orange;
+}
+h3{
+    font-weight:700;
+}
+section{
+    height: 500px;
+}
